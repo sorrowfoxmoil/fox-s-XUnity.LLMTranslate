@@ -34,8 +34,8 @@
 ### 🔄 Version History
 
 #### Python Versions
-- **Fox Original**: Stable base implementation with smooth animations  
-- **Moil Ultimate Edition**: Enhanced features with some UI trade-offs  
+- **Fox**: Stable base implementation with smooth animations  
+- **Moil Edition**: Enhanced features with some UI trade-offs  
 
 #### C++ Version
 - **Complete Refactor**: Ultra-low latency, high-concurrency modern implementation  
@@ -127,7 +127,6 @@ Edit `AutoTranslator/Config.ini`:
 ```ini
 [Service]
 Endpoint=http://localhost:6800
-MaxConcurrentTranslations=20
 ```
 
 #### Glossary (Moil & C++)
