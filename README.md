@@ -128,7 +128,6 @@ Python/
 ```ini
 [Service]
 Endpoint=http://localhost:6800
-MaxConcurrentTranslations=20
 ```
 
 #### 术语表功能（Moil 和 C++ 版本）
